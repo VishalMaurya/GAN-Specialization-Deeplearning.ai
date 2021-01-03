@@ -5,7 +5,9 @@ This repository contains my full work and notes on Deeplearning.ai GAN Specializ
 The courses are:
 
 Course 1: Build Basic Generative Adversarial Networks
+
 Course 2: Build Better Generative Adversarial Networks
+
 Course 3: Apply Generative Adversarial Networks (GANs)
 
 
